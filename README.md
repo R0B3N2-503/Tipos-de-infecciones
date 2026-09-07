@@ -15,7 +15,6 @@ Bienvenido a esta guía educativa sobre **virus informáticos, categorías de ma
 4. [10 Tipos de Virus y sus Impactos](#4-10-tipos-de-virus-y-sus-impactos)
 5. [Mecanismos y Tipos de Protección](#5-mecanismos-y-tipos-de-protección)
 6. [Cómo Analizar y Detectar Virus usando el CMD (Windows)](#6-cómo-analizar-y-detectar-virus-usando-el-cmd-windows)
-7. [Cómo Usar este Repositorio](#7-cómo-usar-este-repositorio)
 8. [Contribuciones](#8-contribuciones)
 
 ---
@@ -177,29 +176,7 @@ Ejecuta un escaneo nativo directo sin abrir la interfaz gráfica:
 
 ---
 
-## 7. Cómo Usar este Repositorio
-
-Puedes clonar este repositorio en tu equipo local usando **Git**:
-
-```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-cd TU_REPOSITORIO
-```
-
-Si deseas modificar el archivo `README.md` o crear tu propio repositorio en GitHub, sigue estos comandos básicos:
-
-```bash
-git init
-git add README.md
-git commit -m "docs: actualiza guía de virus informáticos"
-git branch -M main
-git remote add origin https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
-git push -u origin main
-```
-
----
-
-## 8. Contribuciones
+## 7. Contribuciones
 
 ¡Las contribuciones son bienvenidas y apreciadas! Si deseas ampliar la información, agregar más comandos o corregir alguna sección:
 
