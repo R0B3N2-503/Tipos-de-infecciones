@@ -15,7 +15,7 @@ Bienvenido a esta guía educativa sobre **virus informáticos, categorías de ma
 4. [10 Tipos de Virus y sus Impactos](#4-10-tipos-de-virus-y-sus-impactos)
 5. [Mecanismos y Tipos de Protección](#5-mecanismos-y-tipos-de-protección)
 6. [Cómo Analizar y Detectar Virus usando el CMD (Windows)](#6-cómo-analizar-y-detectar-virus-usando-el-cmd-windows)
-8. [Contribuciones](#8-contribuciones)
+7. [Contribuciones](#8-contribuciones)
 
 ---
 
