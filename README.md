@@ -1,8 +1,8 @@
 # 🛡️ Guía Completa de Ciberseguridad: Virus, Clasificación, Diagnóstico y Protección
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Status](https://img.shields.io/badge/Status-Active-blue.svg)]()
+[![Seguridad Informática](https://img.shields.io/badge/Ciberseguridad-Virus%20%26%20Malware-blue.svg)](https://www.cisa.gov/uscert/ncas/tips)
+[![Herramientas CMD](https://img.shields.io/badge/Herramientas-Windows%20CMD-0078D6.svg)](https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/windows-commands)
+[![NIST Framework](https://img.shields.io/badge/Marco%20de%20Seguridad-NIST%20CSF-green.svg)](https://www.nist.gov/cyberframework)
 
 Bienvenido a esta guía educativa sobre **virus informáticos, categorías de malware, niveles de daño, estrategias de defensa y diagnóstico mediante la consola de comandos (CMD)**. Este repositorio está estructurado para servir como documento de referencia y aprendizaje en proyectos de ciberseguridad.
 
@@ -17,7 +17,6 @@ Bienvenido a esta guía educativa sobre **virus informáticos, categorías de ma
 6. [Cómo Analizar y Detectar Virus usando el CMD (Windows)](#6-cómo-analizar-y-detectar-virus-usando-el-cmd-windows)
 7. [Cómo Usar este Repositorio](#7-cómo-usar-este-repositorio)
 8. [Contribuciones](#8-contribuciones)
-9. [Licencia](#9-licencia)
 
 ---
 
@@ -192,7 +191,7 @@ Si deseas modificar el archivo `README.md` o crear tu propio repositorio en GitH
 ```bash
 git init
 git add README.md
-git commit -m "docs: añade guía completa sobre tipos de virus informáticos"
+git commit -m "docs: actualiza guía de virus informáticos"
 git branch -M main
 git remote add origin https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
 git push -u origin main
@@ -209,9 +208,3 @@ git push -u origin main
 3. Guarda tus cambios y haz Commit (`git commit -m 'Añade información sobre...'`).
 4. Sube la rama a GitHub (`git push origin feature/nueva-seccion`).
 5. Abre un **Pull Request**.
-
----
-
-## 9. Licencia
-
-Este proyecto se distribuye bajo la licencia **MIT**. Puedes usarlo, modificarlo y compartirlo libremente. Revisa el archivo [LICENSE](LICENSE) para más detalles.
