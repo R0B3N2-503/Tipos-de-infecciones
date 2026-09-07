@@ -15,7 +15,6 @@ Bienvenido a esta guía educativa sobre **virus informáticos, categorías de ma
 4. [10 Tipos de Virus y sus Impactos](#4-10-tipos-de-virus-y-sus-impactos)
 5. [Mecanismos y Tipos de Protección](#5-mecanismos-y-tipos-de-protección)
 6. [Cómo Analizar y Detectar Virus usando el CMD (Windows)](#6-cómo-analizar-y-detectar-virus-usando-el-cmd-windows)
-7. [Contribuciones](#8-contribuciones)
 
 ---
 
@@ -176,12 +175,3 @@ Ejecuta un escaneo nativo directo sin abrir la interfaz gráfica:
 
 ---
 
-## 7. Contribuciones
-
-¡Las contribuciones son bienvenidas y apreciadas! Si deseas ampliar la información, agregar más comandos o corregir alguna sección:
-
-1. Haz un **Fork** de este repositorio.
-2. Crea una rama para tus modificaciones (`git checkout -b feature/nueva-seccion`).
-3. Guarda tus cambios y haz Commit (`git commit -m 'Añade información sobre...'`).
-4. Sube la rama a GitHub (`git push origin feature/nueva-seccion`).
-5. Abre un **Pull Request**.
